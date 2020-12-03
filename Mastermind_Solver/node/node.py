@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 class Node:
     def __init__(self, i, o, c):
         self.input = i

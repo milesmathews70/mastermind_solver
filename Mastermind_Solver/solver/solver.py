@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import node
 
 def output(s, answer):
